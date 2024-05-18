@@ -1,0 +1,20 @@
+{
+  "name": "blizz",
+  "version": "0.1.0-beta.1",
+  "description": "An experimental scripting language, built on top of Typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "programming language",
+    "language",
+    "Blizz",
+    "Typescript"
+  ],
+  "author": "Jupiee",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
